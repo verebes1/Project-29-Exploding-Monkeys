@@ -26,6 +26,7 @@
 		4F4D5658220F50BA00CDE04D /* banana.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4D564D220F50BA00CDE04D /* banana.png */; };
 		4F4D5659220F50BA00CDE04D /* player.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4D564E220F50BA00CDE04D /* player.png */; };
 		4F4D565A220F50BA00CDE04D /* player2Throw@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4F4D564F220F50BA00CDE04D /* player2Throw@2x.png */; };
+		4F4D565C220F513800CDE04D /* BuildingNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F4D565B220F513800CDE04D /* BuildingNode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		4F4D564D220F50BA00CDE04D /* banana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banana.png; sourceTree = "<group>"; };
 		4F4D564E220F50BA00CDE04D /* player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player.png; sourceTree = "<group>"; };
 		4F4D564F220F50BA00CDE04D /* player2Throw@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player2Throw@2x.png"; sourceTree = "<group>"; };
+		4F4D565B220F513800CDE04D /* BuildingNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuildingNode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				4F4D5630220F4FA100CDE04D /* Actions.sks */,
 				4F4D5632220F4FA100CDE04D /* GameScene.swift */,
 				4F4D5634220F4FA100CDE04D /* GameViewController.swift */,
+				4F4D565B220F513800CDE04D /* BuildingNode.swift */,
 				4F4D5636220F4FA100CDE04D /* Main.storyboard */,
 				4F4D5639220F4FA400CDE04D /* Assets.xcassets */,
 				4F4D563B220F4FA400CDE04D /* LaunchScreen.storyboard */,
@@ -199,6 +202,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F4D5633220F4FA100CDE04D /* GameScene.swift in Sources */,
+				4F4D565C220F513800CDE04D /* BuildingNode.swift in Sources */,
 				4F4D5635220F4FA100CDE04D /* GameViewController.swift in Sources */,
 				4F4D562D220F4FA100CDE04D /* AppDelegate.swift in Sources */,
 			);
